@@ -118,7 +118,7 @@ You can break the credits section up into Content and Media, depending on what y
 ### Media
 
 - The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The images used for the gallery page were taken from [Wales Online](https://www.walesonline.co.uk/lifestyle/29-places-wales-look-fairytale-9330638)
 
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
