@@ -16,7 +16,7 @@ body {
   flex-direction: column;
   /* Generic project styles */
   color: 3a3a3a;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 h1,
@@ -32,10 +32,10 @@ h3 {
 /* Colors */
 
  /* Header */
-/* Add your general styles here */
+
 
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Raleway', sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -46,7 +46,7 @@ body {
 }
 
 .carousel {
-  width: 80%; /* Adjust the width */
+  width: 50%; /* Adjust the width */
   margin: 20px auto; /* Center the carousel on the page */
 }
 
@@ -74,7 +74,7 @@ body {
   background-color: #000; /* Set control button color */
 }
 
-/* Add your other specific styles here */
+
 
 /* Main */
 
