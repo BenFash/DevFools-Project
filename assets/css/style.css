@@ -1,34 +1,35 @@
 /* Google fonts imports */
-  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Raleway:wght@100&display=swap');
 
-/* Asterisk wildcard selector to override default styles added by the browser */ 
+/* Asterisk wildcard selector to override default styles added by the browser */
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
-/* Generic */ 
+
+/* Generic */
 
 body {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    /* Generic project styles */
-    color: 3a3a3a;
-    font-family: 'Lato', sans-serif;
-    }
-   
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* Generic project styles */
+  color: 3a3a3a;
+  font-family: 'Lato', sans-serif;
+}
+
 h1,
 h2,
 h3 {
-        font-family: 'Raleway', sans-serif;
-        text-transform: uppercase;
-        letter-spacing: 2px;
-        color: #252525;
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #252525;
 }
 
 
- /* Colors */
+/* Colors */
 
  /* Header */
 /* Add your general styles here */
@@ -75,8 +76,36 @@ body {
 
 /* Add your other specific styles here */
 
- /* Main */
+/* Main */
 
- /* Footer */
+/* Footer */
 
- 
+footer {
+  min-height: 120px;
+  margin: 0;
+  color: #5C5552;
+  padding: 12px;
+}
+
+.social-links {
+  padding-bottom: 15px;
+}
+
+.social-links li a i {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  font-size: 13px;
+  line-height: 7px;
+  padding: 12px 0;
+  text-align: center;
+  color: #5C5552;
+  transition: all 0.35s ease-in-out;
+  -moz-transition: all 0.35s ease-in-out;
+  -webkit-transition: all 0.35s ease-in-out;
+  -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+  background: #e84610;
+}
