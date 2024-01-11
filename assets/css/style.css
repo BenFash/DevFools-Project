@@ -35,7 +35,7 @@ h1 {
 
 /* Colors */
 
- /* Header */
+/* Header */
 
 
 body {
@@ -45,13 +45,17 @@ body {
 }
 
 .row {
-  height: 50px; /* height? */
-  background-color: white; /* border color? */
+  height: 50px;
+  /* height? */
+  background-color: white;
+  /* border color? */
 }
 
 .carousel {
-  width: 50%; /* Adjust the width */
-  margin: 20px auto; /* Center the carousel on the page */
+  width: 50%;
+  /* Adjust the width */
+  margin: 20px auto;
+  /* Center the carousel on the page */
 }
 
 .carousel-inner {
@@ -75,12 +79,21 @@ body {
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-  background-color: #000; /* Set control button color */
+  background-color: #000;
+  /* Set control button color */
 }
 
 
 
 /* Main */
+
+
+/*Gallery formatting*/
+
+.img-fluid {
+  padding: 10px;
+  margin: 10px;
+}
 
 /* Footer */
 
