@@ -41,7 +41,7 @@ body {
 }
 
 .row {
-  height: 1px; /* height? */
+  height: 50px; /* height? */
   background-color: #000; /* border color? */
 }
 
