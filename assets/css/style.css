@@ -118,7 +118,7 @@ body {
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-  background-color: #000;
+  background-color: rgb(14, 14, 14);
   /* Set control button color */
 }
 
