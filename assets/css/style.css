@@ -31,6 +31,7 @@ body::after {
   bottom: 0;
   width: 10px; /* border width? */
   background-color: white; /* border color? */
+  box-sizing: border-box;
 }
 
 /* left border */
@@ -45,7 +46,7 @@ body::after {
 
 /* Added padding to the main content area to prevent it from being covered by the borders */
 main {
-  padding: 0 20px; /* Adjust? */
+  padding: 0 200px; /* Adjust? */
 }
 
 
