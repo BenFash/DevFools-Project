@@ -31,6 +31,49 @@ h3 {
  /* Colors */
 
  /* Header */
+/* Add your general styles here */
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  height: 1px; /* height? */
+  background-color: #000; /* border color? */
+}
+
+.carousel {
+  width: 80%; /* Adjust the width */
+  margin: 20px auto; /* Center the carousel on the page */
+}
+
+.carousel-inner {
+  display: flex;
+  flex-direction: row;
+}
+
+.carousel-item {
+  width: 100%;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: auto;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  width: 5%;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: #000; /* Set control button color */
+}
+
+/* Add your other specific styles here */
 
  /* Main */
 
