@@ -15,7 +15,7 @@ body {
   display: flex;
   flex-direction: column;
   /* Generic project styles */
-  color: 3a3a3a;
+  color: rgb(49, 47, 47);
   font-family: 'Raleway', sans-serif;
 }
 
@@ -25,7 +25,11 @@ h3 {
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #252525;
+  color: rgb(32, 30, 30);
+}
+
+h1 {
+  margin: 20px 0;
 }
 
 
@@ -42,7 +46,7 @@ body {
 
 .row {
   height: 50px; /* height? */
-  background-color: #000; /* border color? */
+  background-color: white; /* border color? */
 }
 
 .carousel {
