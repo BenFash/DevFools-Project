@@ -15,8 +15,8 @@ body {
   display: flex;
   flex-direction: column;
   /* Generic project styles */
-  color: 3a3a3a;
-  font-family: 'Lato', sans-serif;
+  color: rgb(49, 47, 47);
+  font-family: 'Raleway', sans-serif;
 }
 
 h1,
@@ -25,13 +25,60 @@ h3 {
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #252525;
+  color: rgb(32, 30, 30);
+}
+
+h1 {
+  margin: 20px 0;
 }
 
 
 /* Colors */
 
-/* Header */
+ /* Header */
+
+
+body {
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  height: 50px; /* height? */
+  background-color: white; /* border color? */
+}
+
+.carousel {
+  width: 50%; /* Adjust the width */
+  margin: 20px auto; /* Center the carousel on the page */
+}
+
+.carousel-inner {
+  display: flex;
+  flex-direction: row;
+}
+
+.carousel-item {
+  width: 100%;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: auto;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  width: 5%;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: #000; /* Set control button color */
+}
+
+
 
 /* Main */
 
