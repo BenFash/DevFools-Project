@@ -104,7 +104,11 @@ li a {
 
 /* Main */
 
-
+.main-vertical-center {
+  width: 75%;
+  display: flex;
+  align-items: center;
+}
 
 
 /*Gallery formatting*/
@@ -113,6 +117,10 @@ li a {
 .img-fluid {
   padding: 10px;
   margin: 10px;
+}
+.img-sizing {
+  height: 160px;
+  width: 240px;
 }
 
 
