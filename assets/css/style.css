@@ -24,39 +24,6 @@ body {
 }
 
 
-<<<<<<< HEAD
-
-/* Added a border to the left and right sides */
-body::before,
-body::after {
-  content: "";
-  display: block;
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  width: 10px; /* border width? */
-  background-color: white; /* border color? */
-  box-sizing: border-box;
-}
-
-/* left border */
-body::before {
-  left: 0px;
-}
-
-/* right border */
-body::after {
-  right: 0px;
-}
-
-/* Added padding to the main content area to prevent it from being covered by the borders */
-main {
-  padding: 0 200px; /* Adjust? */
-}
-
-
-=======
->>>>>>> main
 h1,
 h2,
 h3 {
