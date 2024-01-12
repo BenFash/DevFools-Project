@@ -158,5 +158,31 @@ footer {
 
 
 .social-links li a i:hover {
-  background: #e84610;
+  background: lightgray;
+}
+
+/* ----------------------------------------Contact Form */
+
+.center-form {
+  padding-top: 10px;
+  margin: 0 auto;
+  max-width: 70%;
+}
+
+button[type="submit"] {
+  margin-top: 15px;
+  margin-bottom: 20px;
+  color: #fafafa;
+  background-color: lightgray;
+}
+
+/* ----------------------------------------Media Queries */
+
+@media(min-width: 992px) {
+  .center-form {
+    padding-top: 30px;
+    min-height: 240px;
+    margin: 0 auto;
+    max-width: 50%;
+  }
 }
