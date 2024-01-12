@@ -33,6 +33,21 @@
 </head>
 
 <body>
+    <header>
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="index.html">Jack Smith Photography</a>
+                </div>
+                <ul id="menu" class="nav navbar-nav">
+                    <li class="active"><a class="nav-header" href="index.html">Home</a></li>
+                    <li><a class="nav-header" href="gallery.html">Gallery</a></li>
+                    <li><a class="nav-header" href="contact.html">Contact Us</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <div class="row border"></div>
     <section class="container-fluid">
         <div class="row bg-color-contact">
             <div class="col">
@@ -47,12 +62,28 @@
                             required />
                         <textarea rows="5" name="projectsummary" id="projectsummary" class="form-control"
                             placeholder="Your message" required></textarea>
+
+                        <div class="checkboxes">
+                            <div>
+                                <input type="checkbox" name="action" id="enquiry" value="enquiry">
+                                <label for="enquiry">Enquiry</label>
+                            </div>
+                            <div>
+                                <input type="checkbox" name="action" id="purhcase" value="purchase">
+                                <label for="purchase">Purchase</label>
+                            </div>
+                            <div>
+                                <input type="checkbox" name="action" id="both" value="learning">
+                                <label for="learning">Learning</label>
+                            </div>
+                        </div>
                         <div class="form-row text-center">
                             <div class="col">
                                 <button type="submit" class="btn btn-secondary">Send Project Request</button>
                             </div>
                         </div>
                     </form>
+
                 </div>
 
             </div>
@@ -60,7 +91,7 @@
     </section>
 
 
-    <footer class="fixed-bottom container-fluid justify-content-end">
+    <footer class="absolute-bottom container-fluid justify-content-end">
         <div class="row justify-content-end">
             <div class="col-xs-12 col-lg-8">
                 <h6 class="my-1">2024 Copyright Jack Smith</h6>

@@ -1,6 +1,7 @@
 /* Google fonts imports */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Raleway:wght@100&display=swap');
 
+
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
   padding: 0;
@@ -8,18 +9,22 @@
   box-sizing: border-box;
 }
 
+
 /* Generic */
+
 
 body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+
   /* Generic project styles */
   color: rgb(49, 47, 47);
   font-family: 'Raleway', sans-serif;
 }
 
 
+<<<<<<< HEAD
 
 /* Added a border to the left and right sides */
 body::before,
@@ -50,6 +55,8 @@ main {
 }
 
 
+=======
+>>>>>>> main
 h1,
 h2,
 h3 {
@@ -59,9 +66,11 @@ h3 {
   color: rgb(32, 30, 30);
 }
 
+
 h1 {
   margin: 20px 0;
   margin-bottom: 10px;
+<<<<<<< HEAD
   letter-spacing: 5px; 
   text-align: left;
 }
@@ -69,26 +78,31 @@ h1 {
 h1 span {
   display: block;
   font-size: 0.8em; 
+=======
+  letter-spacing: 5px;
+  text-align: left;
+>>>>>>> main
 }
+
+
+
 
 
 /* Colors */
 
+
 /* Header */
 
-
-body {
-  font-family: 'Raleway', sans-serif;
-  margin: 0;
-  padding: 0;
+li a {
+  text-decoration: none;
+  color: inherit;
 }
 
-.row {
-  height: 50px;
-  /* height? */
-  background-color: white;
-  /* border color? */
-}
+
+/* carousel */
+
+
+
 
 .carousel {
   width: 50%;
@@ -97,24 +111,29 @@ body {
   /* Center the carousel on the page */
 }
 
+
 .carousel-inner {
   display: flex;
   flex-direction: row;
 }
 
+
 .carousel-item {
   width: 100%;
 }
+
 
 .carousel-item img {
   width: 100%;
   height: auto;
 }
 
+
 .carousel-control-prev,
 .carousel-control-next {
   width: 5%;
 }
+
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
@@ -124,17 +143,33 @@ body {
 
 
 
+
+
 /* Main */
 
 
+
+
 /*Gallery formatting*/
+
 
 .img-fluid {
   padding: 10px;
   margin: 10px;
 }
 
+
+/*Contact*/
+
+.checkboxes {
+  padding: 10px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
 /* Footer */
+
 
 footer {
   min-height: 120px;
@@ -143,9 +178,11 @@ footer {
   padding: 12px;
 }
 
+
 .social-links {
   padding-bottom: 15px;
 }
+
 
 .social-links li a i {
   width: 32px;
@@ -161,6 +198,7 @@ footer {
   -webkit-transition: all 0.35s ease-in-out;
   -o-transition: all 0.35s ease-in-out;
 }
+
 
 .social-links li a i:hover {
   background: #e84610;
