@@ -58,9 +58,6 @@ li a {
 
 /* carousel */
 
-
-
-
 .carousel {
   width: 50%;
   /* Adjust the width */
@@ -68,6 +65,9 @@ li a {
   /* Center the carousel on the page */
 }
 
+.border {
+    border: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color);
+}
 
 .carousel-inner {
   display: flex;
