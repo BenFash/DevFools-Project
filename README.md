@@ -34,17 +34,18 @@ Our primary audience includes photography enthusiasts, art aficionados, and indi
 ####  Navigation Bar:
 The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation. It includes a simple Logo, Home page, Menu and Contact links and is responsive on multiple screen sizes. On small screens (e.g. mobile devices) the Home, Menu and Contact links move to under the Logo.
 
-![NavBar] !---------------NAV BAR SNIPIT INSET here------------------!
+<img width="1907" alt="NavBar full" src="https://github.com/BenFash/DevPools-Project/assets/153097035/fca2ac13-0a26-4423-a34e-f4cc97377016">
 
 #### The landing Page Image:
 The landing area includes a photograph and text below that together clearly identify the purpose of the business and the type of product & service it offers. The intriguing image and bio are intended to be appealing to the user and convey a sense of tranquillity, expression of freedom and holistic wellbeing. Immersive description of Jack Smith's artistic philosophy and love for capturing fleeting moments in nature.
 
-![LandingPage] !-----------------HOME PAGE SNIPIT---------------------!
+<img width="926" alt="homepage" src="https://github.com/BenFash/DevPools-Project/assets/153097035/6c4d0d43-781e-45a7-ba87-49bc5a0723c6">
+
 
 #### Featured Work:
 Carousel showcasing selected landscape photos
 
-![Carousel] !----------Insert Carousel here ----------------------------!
+<img width="733" alt="carousel" src="https://github.com/BenFash/DevPools-Project/assets/153097035/0d81d8cd-4186-44c9-9e0a-2a9521664010">
 
 
 #### The Footer:
@@ -55,7 +56,8 @@ The footer is featured on all three pages and is identical on each page making i
 - Copyright Notice - The copyright notice at the end of a website serves as a formal declaration of the creator's ownership of the content on the site. It indicates that the material is protected by copyright law and specifies the rights granted to users. Including a copyright notice helps deter unauthorized use of the content and informs visitors about the legal status of the material.
 
 - Website Creators: DevPools
-![Footer] !-------------------------Inset footer snipit-------------------------------------!
+<img width="917" alt="footer" src="https://github.com/BenFash/DevPools-Project/assets/153097035/12b33322-fac4-465c-bcf7-ba2b04b74053">
+
 
 #### Gallery:
 A curated collection of high-quality images categorized by seasons.
@@ -89,12 +91,13 @@ Testing has been carried out on the following browsers:
 - Safari on macOS Catalina (Safari Version 14.0.3)
 
 The below table details the test cases that were used, the results and a cross-reference to the Feature ID that each test case exercised.
-![ResponseivenessTable] !------------------insert responsivene table here---------------! 
-![BrowserCombatibilityTable] !------------------insert browser table here---------------! 
+<img width="283" alt="response-browercompat" src="https://github.com/BenFash/DevPools-Project/assets/153097035/1cef9860-748e-43b3-9a7e-5c4a9545293d">
+
 
 ## Fixed Bugs
 
-![ArrowOutsideofCarousel] !-----------insert arrow out carousel here-------------!
+<img width="263" alt="carousel-bug" src="https://github.com/BenFash/DevPools-Project/assets/153097035/4ef26636-a9e2-40b9-acff-4ec8e482cc92">
+
 
 #### Reported Issue: 
 Arrow button on one carousel image on landing page was not matching the rest of the images on the page.
