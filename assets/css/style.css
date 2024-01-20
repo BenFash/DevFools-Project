@@ -7,6 +7,9 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  color: rgb(6, 6, 6);
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
 }
 
 
@@ -17,21 +20,10 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-
-  /* Generic project styles */
-  color: rgb(49, 47, 47);
-  font-family: 'Raleway', sans-serif;
 }
 
 
-h1,
-h2,
-h3 {
-  font-family: 'Raleway', sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  color: rgb(32, 30, 30);
-}
+
 
 
 h1 {
@@ -42,7 +34,24 @@ h1 {
 }
 
 
-
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+  font-weight: 600;
+  color: var(--bs-heading-color);
+}
 
 
 /* Colors */
@@ -58,9 +67,6 @@ li a {
 
 /* carousel */
 
-
-
-
 .carousel {
   width: 50%;
   /* Adjust the width */
@@ -68,6 +74,9 @@ li a {
   /* Center the carousel on the page */
 }
 
+.border {
+  border: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color);
+}
 
 .carousel-inner {
   display: flex;
@@ -104,7 +113,11 @@ li a {
 
 /* Main */
 
-
+.main-vertical-center {
+  width: 75%;
+  display: flex;
+  align-items: center;
+}
 
 
 /*Gallery formatting*/
@@ -113,6 +126,11 @@ li a {
 .img-fluid {
   padding: 10px;
   margin: 10px;
+}
+
+.img-sizing {
+  height: 160px;
+  width: 240px;
 }
 
 
@@ -131,8 +149,17 @@ li a {
 footer {
   min-height: 120px;
   margin: 0;
-  color: #5C5552;
+  color: rgb(6, 6, 6);
   padding: 12px;
+
+}
+
+.footer-position {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding-left: 40px;
+  padding-top: 50px;
 }
 
 
@@ -158,5 +185,31 @@ footer {
 
 
 .social-links li a i:hover {
-  background: #e84610;
+  background: lightgray;
+}
+
+/* ----------------------------------------Contact Form */
+
+.center-form {
+  padding-top: 10px;
+  margin: 0 auto;
+  max-width: 70%;
+}
+
+button[type="submit"] {
+  margin-top: 15px;
+  margin-bottom: 20px;
+  color: #fafafa;
+  background-color: #787777;
+}
+
+/* ----------------------------------------Media Queries */
+
+@media(min-width: 992px) {
+  .center-form {
+    padding-top: 30px;
+    min-height: 240px;
+    margin: 0 auto;
+    max-width: 50%;
+  }
 }

@@ -1,142 +1,153 @@
-# Love Running
+# JACK SMITH PHOTOGRAPHY
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+Jack Smith Photography Art Portfolio showcases his artistic passion in capturing the enchanting magic of nature's landscapes. From ancient chapels perched on cliffs to serene mountain vistas, each photograph tells a unique story, inviting viewers to explore the breathtaking wonders of the natural world.
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+Our primary audience includes photography enthusiasts, art aficionados, and individuals captivated by the beauty of landscapes. Whether you're looking for visual inspiration, considering a purchase, or interested in booking a photography tour, Jack Smith Photography welcomes everyone who appreciates the artistry of nature. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+### Services Available:
 
-## Features 
+#### Artistic Photography Tours:
+- Explore scenic landscapes with Jack Smith through guided photography tours.
+- Learn the art of capturing nature's beauty firsthand.
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-### Existing Features
+#### Fine Art Prints Purchase:
+- Purchase high-quality prints of Jack Smith's featured works
+- Own a piece of nature's beauty to adorn your living space.
 
-- __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Contact page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+#### Contact and Inquiry:
+- Easily get in touch with Jack Smith for tuition, commission inquiries or to inquire about available prints.
+- For convenient communication a contact form.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+#### Benefits of Our Services and Website:
+- Immerse yourself in the beauty of landscapes captured with precision and artistry.
+- Learn the art of photography through guided tours, adding a unique educational dimension.
+- Bring the magic of nature into your home with the purchase of fine art prints.
+- Conveniently inquire about commissions or artworks through our user-friendly website.
+- Jack Smith Photography Art Portfolio is not just a website; it's a visual sanctuary for those who seek the allure of landscapes. Join us on this visual expedition, explore the breathtaking wonders, and experience the magic of nature through the lens of Jack Smith.
 
-- __The landing page image__
+<img width="509" alt="response-img" src="https://github.com/BenFash/DevPools-Project/assets/153097035/312e4562-b99a-40f1-9afd-5b190fffa431">
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+## Existing Features
 
-- __Club Ethos Section__
+####  Navigation Bar:
+The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation. It includes a simple Logo, Home page, Menu and Contact links and is responsive on multiple screen sizes. On small screens (e.g. mobile devices) the Home, Menu and Contact links move to under the Logo.
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+<img width="1130" alt="navbar-img" src="https://github.com/BenFash/DevPools-Project/assets/153097035/dbf5af7d-64f9-4207-aa6a-81da8917e840">
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+#### The landing Page Image:
+The landing area includes a photograph and text below that together clearly identify the purpose of the business and the type of product & service it offers. The intriguing image and bio are intended to be appealing to the user and convey a sense of tranquillity, expression of freedom and holistic wellbeing. Immersive description of Jack Smith's artistic philosophy and love for capturing fleeting moments in nature.
 
-- __Meetup Times section__
+<img width="926" alt="homepage" src="https://github.com/BenFash/DevPools-Project/assets/153097035/e1e6e5f8-a465-470b-9f1a-6e1a85077bb9">
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+#### Featured Work:
+Carousel showcasing selected landscape photos
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+<img width="733" alt="carousel" src="https://github.com/BenFash/DevPools-Project/assets/153097035/0d81d8cd-4186-44c9-9e0a-2a9521664010">
 
-- __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+#### The Footer:
+The footer is featured on all three pages and is identical on each page making it easy to use. It contains three sections:
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+- Social Media Links - This area has links to social media sites associated with the organisation encouraging the user to keep connected. The links will open in a new tab to allow easy navigation for the user. The organisation can use these sites to promote brand awareness and keep customers interested through updates, offers, chats and other marketing efforts. (As JACK SMITH PHOTOGRAPHY is a fictitious company, the links currently just go to the social media main websites.)
 
-- __Gallery__
+- Copyright Notice - The copyright notice at the end of a website serves as a formal declaration of the creator's ownership of the content on the site. It indicates that the material is protected by copyright law and specifies the rights granted to users. Including a copyright notice helps deter unauthorized use of the content and informs visitors about the legal status of the material.
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+- Website Creators: DevPools
+  
+<img width="1085" alt="footerimg" src="https://github.com/BenFash/DevPools-Project/assets/153097035/9e711509-4cec-4e08-9cf8-da51e1f96319">
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+#### Gallery:
+A curated collection of high-quality images categorized by seasons.
+  - Gallery sections include "Ancient Secluded Gorge, Coastline Cliffs, Glacially            Formed Lake, Mountains remains from Clusters of Forgotten Volcanoes" and more.
 
-- __Contact Page__
+<img width="1118" alt="gallerypage-img" src="https://github.com/BenFash/DevPools-Project/assets/153097035/afa94ee6-ea43-4578-959d-7db39315b8e2">
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
-![Contact](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+#### Contact Us Page:
+The 'Contact Us' panel of the Contact page allows the user to send a message/give feedback to the company and if they want, there are radio buttons to choose three options. The user is asked to provide their name and email address when sending a message. By default, the option to join the mailing list is set to 'no' - to prevent them accidentally signing up for the mailing list and getting unwanted email. Sending the message will result in a new tab showing the results (at the moment the user is simply shown the formdump.codeinstitute.net page with the data they submitted displayed).
+The panel is to complete a form within a designated graphical interface, and the call to action is conditioned to activate only when the form is appropriately filled out, ensuring valid data submission.
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+To provide a user-friendly experience, there is  a visual indicator (error messages) indicating that the form needs to be filled out correctly before the CTA can be activated.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+<img width="1128" alt="contactus-img" src="https://github.com/BenFash/DevPools-Project/assets/153097035/a5a15aff-da3d-427d-8a8e-32f50c7fc96e">
 
-### Features Left to Implement
 
-- Another feature idea
+## Validator Testing 
 
-## Testing 
+#### HTML
+- Index Page
+<img width="701" alt="indexpage-errors" src="https://github.com/BenFash/DevPools-Project/assets/153097035/c31f4e8b-3920-4b5d-add6-581308089d4c">
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+- Gallery Page
+<img width="702" alt="gallerypage-errors" src="https://github.com/BenFash/DevPools-Project/assets/153097035/212b293a-7265-46fc-98b4-f3f3c362ce24">
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+- Contact Us Page
+<img width="698" alt="contactuspage-errors" src="https://github.com/BenFash/DevPools-Project/assets/153097035/8b919455-2abd-4d86-9c67-f88b06aaddf9">
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-Welcome AmandaCIdev M,
-
-### Validator Testing 
-
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+<img width="734" alt="CSS errors" src="https://github.com/BenFash/DevPools-Project/assets/153097035/3b381e0d-6b9e-4445-b214-f7a36db073f7">
 
-### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+#### Browser Compatibility
+Testing has been carried out on the following browsers:
+- Chrome Version 90.0.4430.212 (Official Build) (64-bit)
+- Firefox Version 88.0.1 (64-bit)
+- Safari on macOS Catalina (Safari Version 14.0.3)
+
+The below table details the test cases that were used, the results and a cross-reference to the Feature ID that each test case exercised.
+<img width="283" alt="response-browercompat" src="https://github.com/BenFash/DevPools-Project/assets/153097035/1cef9860-748e-43b3-9a7e-5c4a9545293d">
+
+
+## Fixed Bugs
+
+#### Reported Issue: 
+Arrow button on one carousel image on landing page was not matching the rest of the images on the page.
+#### Solution: 
+We fixed it with the Inspect tool and changed the code moving “img-fluid”.
+
+<img width="263" alt="carousel-bug" src="https://github.com/BenFash/DevPools-Project/assets/153097035/4ef26636-a9e2-40b9-acff-4ec8e482cc92">
+
+#### Reported Issue: 
+Contact us form was not active.
+
+#### Solution:
+We created a POST method, copying code from the Love Running project.
+
+<img width="629" alt="formdatadump" src="https://github.com/BenFash/DevPools-Project/assets/153097035/1f580fab-fb9a-4f2e-b7df-889b18f8a836">
+
+## Unfixed Bugs
+As you will see from our Validator tests there were a few errors that we could not get around to in the allocated time we had to complete the project. As explained in our presentation we had a lot of issues you would expect in the first ever collabed project completed. Main being time being taken away learning merge conflicts etc.
 
 ## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
-
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
-
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+#### How this site was deployed:
+- In the GitHub repository, navigate to the Settings tab, then choose Pages from the left hand menu
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
+- Any changes pushed to the master branch will take effect on the live project
+The live link can be found here - [Live Page here](https://benfash.github.io/DevPools-Project/)
 
 
-## Credits 
+#### How to clone the repository:
+- Go to the [Github Repo main page](https://github.com/BenFash/DevPools-Project) repository on GitHub
+- Click the "Code" button to the right of the screen, click HTTPs and copy the link there
+Open a GitBash terminal and navigate to the directory where you want to locate the clon
+- Open a GitBash terminal and navigate to the directory where you want to locate the clone
+- On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+## Credits
+#### Content: 
+- Navbar inspired by Love Running Project.
+- Biography & philosophy sections were created in [ChatOpenAI](https://chat.openai.com)
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Website style inspired by [Adam Burton Photography](https://www.adamburtonphotography.com/)
 
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+### Media:
+- The icons in the header and footer were taken from [Font Awesome](https://fontawesome.com/)
+- All Artist work on index.html sourced from [WalesOnline](https://www.walesonline.co.uk/lifestyle/29-places-wales-look-fairytale-9330638)
+- All Artist work on gallery sourced from [Adam Burton Photography](https://www.adamburtonphotography.com/)
+- Fonts used were imported from [Google Fonts](https://fonts.google.com/)
+- Favicon image from https://iconduck.com/emojis/44483/movie-camera
 
-### Content 
-
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Contact page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome Kit](https://kit.fontawesome.com/) 
-Font Style: (https://fonts.google.com/)
-
-### Media
-
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from [Wales Online](https://www.walesonline.co.uk/lifestyle/29-places-wales-look-fairytale-9330638)
-
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
