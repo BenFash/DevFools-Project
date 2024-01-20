@@ -17,7 +17,7 @@ Our primary audience includes photography enthusiasts, art aficionados, and indi
 
 
 #### Contact and Inquiry:
-- Easily get in touch with Jack Smith for commission inquiries or to inquire about       available prints.
+- Easily get in touch with Jack Smith for tuition, commission inquiries or to inquire about available prints.
 - For convenient communication a contact form.
 
 #### Benefits of Our Services and Website:
@@ -27,7 +27,8 @@ Our primary audience includes photography enthusiasts, art aficionados, and indi
 - Conveniently inquire about commissions or artworks through our user-friendly website.
 - Jack Smith Photography Art Portfolio is not just a website; it's a visual sanctuary for those who seek the allure of landscapes. Join us on this visual expedition, explore the breathtaking wonders, and experience the magic of nature through the lens of Jack Smith.
 
-![ResponsiceMockup] !-----insert responsive snipits----!
+!!!------ Place responsiveness imgs here ----- !!!!!
+
 
 ## Existing Features
 
@@ -56,14 +57,15 @@ The footer is featured on all three pages and is identical on each page making i
 - Copyright Notice - The copyright notice at the end of a website serves as a formal declaration of the creator's ownership of the content on the site. It indicates that the material is protected by copyright law and specifies the rights granted to users. Including a copyright notice helps deter unauthorized use of the content and informs visitors about the legal status of the material.
 
 - Website Creators: DevPools
+
 <img width="917" alt="footer" src="https://github.com/BenFash/DevPools-Project/assets/153097035/12b33322-fac4-465c-bcf7-ba2b04b74053">
 
 
 #### Gallery:
 A curated collection of high-quality images categorized by seasons.
   - Gallery sections include "Ancient Secluded Gorge, Coastline Cliffs, Glacially            Formed Lake, Mountains remains from Clusters of Forgotten Volcanoes" and more.
+<img width="1208" alt="gallery-page-img" src="https://github.com/BenFash/DevPools-Project/assets/153097035/f8a51fdf-e416-43e1-8f96-f5434619566a">
 
-![Gallery] !-----inset gallery page--------------------!
 
 #### Contact Us Page:
 The 'Contact Us' panel of the Contact page allows the user to send a message/give feedback to the company and if they want, there are radio buttons to choose three options. The user is asked to provide their name and email address when sending a message. By default, the option to join the mailing list is set to 'no' - to prevent them accidentally signing up for the mailing list and getting unwanted email. Sending the message will result in a new tab showing the results (at the moment the user is simply shown the formdump.codeinstitute.net page with the data they submitted displayed).
@@ -71,18 +73,23 @@ The panel is to complete a form within a designated graphical interface, and the
 
 To provide a user-friendly experience, there is  a visual indicator (error messages) indicating that the form needs to be filled out correctly before the CTA can be activated.
 
-![ContactUsPage] !---------inset contact us page--------------!
-
+<img width="1205" alt="contactus-page" src="https://github.com/BenFash/DevPools-Project/assets/153097035/67143050-beaa-40f7-ae29-9de82645aa3e">
 
 ## Validator Testing 
 
 #### HTML
-![W3CvalidatorIndexPage] !--------------insert result for index html-----------!
-![W3CvalidatorGallery] !--------------insert result for gallery html-----------!
-![W3CvalidatorContact] !--------------insert result for contactus html-----------!
+-Index Page
+<img width="701" alt="indexpage-errors" src="https://github.com/BenFash/DevPools-Project/assets/153097035/c31f4e8b-3920-4b5d-add6-581308089d4c">
 
-#### CSS
-![W3CvalidatorCss] !----------insert result for style sheet in CSS validator-------------!
+-Gallery Page
+<img width="702" alt="gallerypage-errors" src="https://github.com/BenFash/DevPools-Project/assets/153097035/212b293a-7265-46fc-98b4-f3f3c362ce24">
+
+- Contact Us Page
+<img width="698" alt="contactuspage-errors" src="https://github.com/BenFash/DevPools-Project/assets/153097035/8b919455-2abd-4d86-9c67-f88b06aaddf9">
+
+- CSS
+<img width="734" alt="CSS errors" src="https://github.com/BenFash/DevPools-Project/assets/153097035/3b381e0d-6b9e-4445-b214-f7a36db073f7">
+
 
 #### Browser Compatibility
 Testing has been carried out on the following browsers:
@@ -111,7 +118,8 @@ Contact us form was not active.
 #### Solution:
 We created a POST method, copying code from the Love Running project.
 
-![FormResponseMsg] !--------------insert data code institute dump page -------------------!
+<img width="629" alt="formdatadump" src="https://github.com/BenFash/DevPools-Project/assets/153097035/1f580fab-fb9a-4f2e-b7df-889b18f8a836">
+
 
 ## Unfixed Bugs
 As you will see from our Validator tests there were a few errors that we could not get around to in the allocated time we had to complete the project. As explained in our presentation we had a lot of issues you would expect in the first ever collabed project completed. Main being time being taken away learning merge conflicts etc.
