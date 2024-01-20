@@ -7,6 +7,9 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  color: rgb(6, 6, 6);
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
 }
 
 
@@ -17,21 +20,10 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-
-  /* Generic project styles */
-  color: rgb(49, 47, 47);
-  font-family: 'Raleway', sans-serif;
 }
 
 
-h1,
-h2,
-h3 {
-  font-family: 'Raleway', sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  color: rgb(32, 30, 30);
-}
+
 
 
 h1 {
@@ -66,7 +58,7 @@ li a {
 }
 
 .border {
-    border: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color);
+  border: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color);
 }
 
 .carousel-inner {
@@ -118,6 +110,7 @@ li a {
   padding: 10px;
   margin: 10px;
 }
+
 .img-sizing {
   height: 160px;
   width: 240px;
@@ -139,8 +132,17 @@ li a {
 footer {
   min-height: 120px;
   margin: 0;
-  color: #5C5552;
+  color: rgb(6, 6, 6);
   padding: 12px;
+  font-weight: 600;
+}
+
+.footer-position {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding-left: 40px;
+  padding-top: 50px;
 }
 
 
@@ -181,7 +183,7 @@ button[type="submit"] {
   margin-top: 15px;
   margin-bottom: 20px;
   color: #fafafa;
-  background-color: lightgray;
+  background-color: #787777;
 }
 
 /* ----------------------------------------Media Queries */
