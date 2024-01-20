@@ -27,7 +27,7 @@ Our primary audience includes photography enthusiasts, art aficionados, and indi
 - Conveniently inquire about commissions or artworks through our user-friendly website.
 - Jack Smith Photography Art Portfolio is not just a website; it's a visual sanctuary for those who seek the allure of landscapes. Join us on this visual expedition, explore the breathtaking wonders, and experience the magic of nature through the lens of Jack Smith.
 
-!!!------ Place responsiveness imgs here ----- !!!!!
+<img width="509" alt="response-img" src="https://github.com/BenFash/DevPools-Project/assets/153097035/312e4562-b99a-40f1-9afd-5b190fffa431">
 
 
 ## Existing Features
@@ -35,13 +35,12 @@ Our primary audience includes photography enthusiasts, art aficionados, and indi
 ####  Navigation Bar:
 The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation. It includes a simple Logo, Home page, Menu and Contact links and is responsive on multiple screen sizes. On small screens (e.g. mobile devices) the Home, Menu and Contact links move to under the Logo.
 
-<img width="1907" alt="NavBar full" src="https://github.com/BenFash/DevPools-Project/assets/153097035/fca2ac13-0a26-4423-a34e-f4cc97377016">
+<img width="1130" alt="navbar-img" src="https://github.com/BenFash/DevPools-Project/assets/153097035/dbf5af7d-64f9-4207-aa6a-81da8917e840">
 
 #### The landing Page Image:
 The landing area includes a photograph and text below that together clearly identify the purpose of the business and the type of product & service it offers. The intriguing image and bio are intended to be appealing to the user and convey a sense of tranquillity, expression of freedom and holistic wellbeing. Immersive description of Jack Smith's artistic philosophy and love for capturing fleeting moments in nature.
 
-<img width="926" alt="homepage" src="https://github.com/BenFash/DevPools-Project/assets/153097035/6c4d0d43-781e-45a7-ba87-49bc5a0723c6">
-
+<img width="926" alt="homepage" src="https://github.com/BenFash/DevPools-Project/assets/153097035/e1e6e5f8-a465-470b-9f1a-6e1a85077bb9">
 
 #### Featured Work:
 Carousel showcasing selected landscape photos
@@ -57,14 +56,14 @@ The footer is featured on all three pages and is identical on each page making i
 - Copyright Notice - The copyright notice at the end of a website serves as a formal declaration of the creator's ownership of the content on the site. It indicates that the material is protected by copyright law and specifies the rights granted to users. Including a copyright notice helps deter unauthorized use of the content and informs visitors about the legal status of the material.
 
 - Website Creators: DevPools
-
-<img width="917" alt="footer" src="https://github.com/BenFash/DevPools-Project/assets/153097035/12b33322-fac4-465c-bcf7-ba2b04b74053">
-
+  
+<img width="1085" alt="footerimg" src="https://github.com/BenFash/DevPools-Project/assets/153097035/9e711509-4cec-4e08-9cf8-da51e1f96319">
 
 #### Gallery:
 A curated collection of high-quality images categorized by seasons.
   - Gallery sections include "Ancient Secluded Gorge, Coastline Cliffs, Glacially            Formed Lake, Mountains remains from Clusters of Forgotten Volcanoes" and more.
-<img width="1208" alt="gallery-page-img" src="https://github.com/BenFash/DevPools-Project/assets/153097035/f8a51fdf-e416-43e1-8f96-f5434619566a">
+
+<img width="1118" alt="gallerypage-img" src="https://github.com/BenFash/DevPools-Project/assets/153097035/afa94ee6-ea43-4578-959d-7db39315b8e2">
 
 
 #### Contact Us Page:
@@ -73,15 +72,16 @@ The panel is to complete a form within a designated graphical interface, and the
 
 To provide a user-friendly experience, there is  a visual indicator (error messages) indicating that the form needs to be filled out correctly before the CTA can be activated.
 
-<img width="1205" alt="contactus-page" src="https://github.com/BenFash/DevPools-Project/assets/153097035/67143050-beaa-40f7-ae29-9de82645aa3e">
+<img width="1128" alt="contactus-img" src="https://github.com/BenFash/DevPools-Project/assets/153097035/a5a15aff-da3d-427d-8a8e-32f50c7fc96e">
+
 
 ## Validator Testing 
 
 #### HTML
--Index Page
+- Index Page
 <img width="701" alt="indexpage-errors" src="https://github.com/BenFash/DevPools-Project/assets/153097035/c31f4e8b-3920-4b5d-add6-581308089d4c">
 
--Gallery Page
+- Gallery Page
 <img width="702" alt="gallerypage-errors" src="https://github.com/BenFash/DevPools-Project/assets/153097035/212b293a-7265-46fc-98b4-f3f3c362ce24">
 
 - Contact Us Page
@@ -103,14 +103,12 @@ The below table details the test cases that were used, the results and a cross-r
 
 ## Fixed Bugs
 
-<img width="263" alt="carousel-bug" src="https://github.com/BenFash/DevPools-Project/assets/153097035/4ef26636-a9e2-40b9-acff-4ec8e482cc92">
-
-
 #### Reported Issue: 
 Arrow button on one carousel image on landing page was not matching the rest of the images on the page.
 #### Solution: 
-We fixed it with the Inspect tool and changed the code moving “img-fluid”. 
+We fixed it with the Inspect tool and changed the code moving “img-fluid”.
 
+<img width="263" alt="carousel-bug" src="https://github.com/BenFash/DevPools-Project/assets/153097035/4ef26636-a9e2-40b9-acff-4ec8e482cc92">
 
 #### Reported Issue: 
 Contact us form was not active.
@@ -119,7 +117,6 @@ Contact us form was not active.
 We created a POST method, copying code from the Love Running project.
 
 <img width="629" alt="formdatadump" src="https://github.com/BenFash/DevPools-Project/assets/153097035/1f580fab-fb9a-4f2e-b7df-889b18f8a836">
-
 
 ## Unfixed Bugs
 As you will see from our Validator tests there were a few errors that we could not get around to in the allocated time we had to complete the project. As explained in our presentation we had a lot of issues you would expect in the first ever collabed project completed. Main being time being taken away learning merge conflicts etc.
