@@ -16,14 +16,16 @@
 /* Generic */
 
 
+
 body {
+  font-family: 'Poppins', sans-serif;
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+  position: relative;
+  margin: 0;
+  margin-top: 75px;
+  margin-bottom: 130px;
+  box-sizing: border-box;
 }
-
-
-
 
 
 h1 {
@@ -145,23 +147,14 @@ li a {
 
 /* Footer */
 
-
 footer {
-  min-height: 120px;
-  margin: 0;
-  color: rgb(6, 6, 6);
-  padding: 12px;
-
-}
-
-.footer-position {
   position: absolute;
   bottom: 0;
-  left: 0;
-  padding-left: 40px;
-  padding-top: 50px;
+  width: 100%;
+  height: 100px;
+  background-color: #f5f5f5;
+  padding: 20px 0;
 }
-
 
 .social-links {
   padding-bottom: 15px;
@@ -188,6 +181,32 @@ footer {
   background: lightgray;
 }
 
+
+.footer-position {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 130px;
+  left: 0;
+  padding: 20px 0;
+
+}
+
+
+#footer-text {
+  text-align: center;
+  background-color: rgb(248, 244, 244);
+  color: white;
+  padding: 10px 0;
+  width: 100vw;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+
+
+
 /* ----------------------------------------Contact Form */
 
 .center-form {
@@ -211,5 +230,59 @@ button[type="submit"] {
     min-height: 240px;
     margin: 0 auto;
     max-width: 50%;
+  }
+}
+/*---------------------------------------Test Queries */
+
+/* MEDIA QUERIES */
+/* Very Small devices (tablets, 480px and up) */
+@media screen and (min-width: 480px) {
+  #hero {
+    max-height: 100px;
+  }
+}
+
+/* Small devices (tablets, 576px and up) */
+@media screen and (min-width: 576px) {
+  #hero {
+    max-height: 200px;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) {
+  #hero {
+    max-height: 300px;
+  }
+}
+
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+  #hero {
+    max-height: 500px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+
+  /* For Projectors or Higher Resolution Screens (Full HD) */
+  .container {
+    width: 1890px;
+  }
+
+  body {
+    margin-bottom: 200px;
+  }
+}
+
+@media screen and (min-width: 3840px) {
+
+  /* For 4K Displays (Ultra HD) */
+  .container {
+    width: 3810px;
+  }
+
+  body {
+    margin-bottom: 250px;
   }
 }
