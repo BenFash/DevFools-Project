@@ -198,6 +198,14 @@ footer {
   justify-content: space-evenly;
 }
 
+  #footer-text a {
+    text-decoration: none; /* Remove default underline */
+    color: white; /* Set the text color to white */
+}
+
+#footer-text a:hover {
+  text-decoration: underline; /* Add underline on hover */
+}
 
 
 
