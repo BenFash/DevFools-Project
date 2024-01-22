@@ -29,6 +29,20 @@ Our primary audience includes photography enthusiasts, art aficionados, and indi
 
 <img width="509" alt="response-img" src="https://github.com/BenFash/DevPools-Project/assets/153097035/312e4562-b99a-40f1-9afd-5b190fffa431">
 
+## User Experience (UX) 
+
+#### A. User Goals
+- As a site user I would like to be able to see the artist's work so that I can be up to date with his current work.
+- As a site user I would like to be able to know when and where art shows are so that I can view the art in-person.
+- As a site user would like to be able to contact the artist so that i can enquiry and purchase work
+- As a site user would like to be able to navigate easily through the website so that I can have a good user experience
+
+#### B. Owner Of Site Goals 
+- As an owner of a site I want a social media integration to share my artworks on platforms like Instagram and Facebook. so that my customers can view my work on other platforms.
+- As an artist I want a dedicated section for my biography, providing background information about my artistic journey. so that my users know that they are on my website and can gather some personal information about me.
+- As a site owner I would like to be able to protect my presented art work so that i can protect my copyright
+-As a owner would  like my website tab to stand out from others so that i can entice users to my page
+
 
 ## Existing Features
 
@@ -74,6 +88,29 @@ To provide a user-friendly experience, there is  a visual indicator (error messa
 
 <img width="1128" alt="contactus-img" src="https://github.com/BenFash/DevPools-Project/assets/153097035/a5a15aff-da3d-427d-8a8e-32f50c7fc96e">
 
+## Design
+The design layout features a clean and minimalistic structure with a simple white background, providing a visually uncluttered canvas. Imagery is elegantly incorporated with prominent landscape photos, enhancing the aesthetic appeal, while a restrained colour palette ensures a cohesive and tranquil user experience.
+
+#### Typography
+
+## Technologies Used
+- Google Fonts were used to import Lato and Raleway fonts into styles.css. These were chosen as they work well together and have a simple, unembellished, minimalistic feel that is easy to read.
+
+#### Languages Used
+- HTML5
+- CSS3
+
+#### Frameworks, Libraries & Programs Used
+- Google Fonts: was used to import the 'Lato' and 'Raleway' fonts into the style.css file which are used on all pages of the project.
+- Font Awesome: was used to add icons for aesthetic and UX purposes.
+- Git: was used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
+- GitHub: is used as the repository for the project's code after being pushed from Git and for UX Kanban Board.
+- Balsamiq: was used to create the wireframes during the design process.
+- https://ui.dev/amiresponsive was used to test compatibility on all devices.
+- "movie camera" Emoji - Download for free – Iconduck was used to import the ‘camera film’ icon, placed into the HTML, to be viewed on the tab in the browser.
+- Quora was used to get advice from software developers.
+- Google was used for queries.
+- https://learn.codeinstitute.net/ci_program/ was used to revise instructions and collect code.
 
 ## Validator Testing 
 
