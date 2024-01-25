@@ -91,10 +91,22 @@ To provide a user-friendly experience, there is  a visual indicator (error messa
 ## Design
 The design layout features a clean and minimalistic structure with a simple white background, providing a visually uncluttered canvas. Imagery is elegantly incorporated with prominent landscape photos, enhancing the aesthetic appeal, while a restrained colour palette ensures a cohesive and tranquil user experience.
 
+#### Wireframes
+
+Index Page
+<img width="430" alt="index-wireframe" src="https://github.com/BenFash/DevPools-Project/assets/153097035/252f1502-7726-4fc9-825d-52027729dea8">
+
+Gallery Page
+<img width="414" alt="gallery-wireframe" src="https://github.com/BenFash/DevPools-Project/assets/153097035/2ba0e6d2-76f5-4271-93f5-dbffb8d4c44a">
+
+Contact Page
+<img width="422" alt="contact-wireframe" src="https://github.com/BenFash/DevPools-Project/assets/153097035/5a55da99-55e8-423c-90a2-d97f071a2b85">
+ 
+
 #### Typography
+Google Fonts were used to import Lato and Raleway fonts into styles.css. These were chosen as they work well together and have a simple, unembellished, minimalistic feel that is easy to read.
 
 ## Technologies Used
-- Google Fonts were used to import Lato and Raleway fonts into styles.css. These were chosen as they work well together and have a simple, unembellished, minimalistic feel that is easy to read.
 
 #### Languages Used
 - HTML5
@@ -116,16 +128,20 @@ The design layout features a clean and minimalistic structure with a simple whit
 
 #### HTML
 - Index Page
-<img width="701" alt="indexpage-errors" src="https://github.com/BenFash/DevPools-Project/assets/153097035/c31f4e8b-3920-4b5d-add6-581308089d4c">
+![Indexpage-errors](https://github.com/BenFash/DevPools-Project/assets/153097035/294df629-9304-46ba-98e9-a2b76e95118e)
+
 
 - Gallery Page
-<img width="702" alt="gallerypage-errors" src="https://github.com/BenFash/DevPools-Project/assets/153097035/212b293a-7265-46fc-98b4-f3f3c362ce24">
+![gallerypage-errors ](https://github.com/BenFash/DevPools-Project/assets/153097035/4b90d862-0640-421b-885b-764cb31e24b9)
+
 
 - Contact Us Page
-<img width="698" alt="contactuspage-errors" src="https://github.com/BenFash/DevPools-Project/assets/153097035/8b919455-2abd-4d86-9c67-f88b06aaddf9">
+![contactpage-errors](https://github.com/BenFash/DevPools-Project/assets/153097035/ab566f99-c6b4-4552-b71d-2d3e91ece76d)
+
 
 - CSS
-<img width="734" alt="CSS errors" src="https://github.com/BenFash/DevPools-Project/assets/153097035/3b381e0d-6b9e-4445-b214-f7a36db073f7">
+![CSS-errors](https://github.com/BenFash/DevPools-Project/assets/153097035/1dcee014-e170-4d26-a587-516a6cef41f0)
+
 
 
 #### Browser Compatibility
@@ -155,8 +171,6 @@ We created a POST method, copying code from the Love Running project.
 
 <img width="629" alt="formdatadump" src="https://github.com/BenFash/DevPools-Project/assets/153097035/1f580fab-fb9a-4f2e-b7df-889b18f8a836">
 
-## Unfixed Bugs
-As you will see from our Validator tests there were a few errors that we could not get around to in the allocated time we had to complete the project. As explained in our presentation we had a lot of issues you would expect in the first ever collabed project completed. Main being time being taken away learning merge conflicts etc.
 
 ## Deployment
 #### How this site was deployed:
